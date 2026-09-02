@@ -27,5 +27,6 @@ else if (shape.kind == "square") {
   return shape.sideLength * shape.sideLength;
 }
 else {
-  return 0;
+    return 0;
+  }
 }
